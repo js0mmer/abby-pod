@@ -6,7 +6,7 @@ name: GitHub Pages Deployment
 on:
   push:
     branches:
-    - main
+    - master
 
 # Allow one concurrent deployment
 concurrency:
